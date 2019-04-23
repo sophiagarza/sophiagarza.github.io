@@ -6,4 +6,9 @@
   <p> I am currently a Freshman at <style="color:burnt orange">The University of Texas studying supply chain managment in the McCombs School of Business.
     I love Austin! Some of my favorite thinsg to do are
     <li/> hike at Barton Creek
-    
+  
+  
+  
+  
+  
+    </body>
