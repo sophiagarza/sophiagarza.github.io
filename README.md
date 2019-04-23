@@ -1,5 +1,5 @@
 # Sophia Garza
 <html>
 <body>
-  <h1> hey y'all my name is Sophia Garza, welcome to my site! </h1>
-
+  <h1> Hey y'all my name is Sophia Garza, welcome to my site! </h1>
+  <h2> get to know all about me </h2>
