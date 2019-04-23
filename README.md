@@ -1,6 +1,6 @@
 # Sophia Garza
 <p>&nbsp;</p>
-<center><img src="https://github.com/sophiagarza/sophiagarza.github.io/blob/master/Sophiagarza.github.png" width="265" height="266" align="BOTTOM" /></center><hr />
+<center><img src="" width="265" height="266" align="BOTTOM" /></center><hr />
 <p style="text-align: center;"><a href="https://www.instagram.com/sophieg72/">Click Here</a> to go to my favorite site (feel free to give me a follow:))</p>
 <h1 style="text-align: center;">Hey ya'll, my name is Sophia Garza</h1>
 <h2 style="text-align: center;">Welcome to my all about me site!</h2>
