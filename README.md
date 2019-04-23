@@ -1,5 +1,6 @@
 # Sophia Garza
 <p>&nbsp;</p>
+<body bgcolor="#E6E6FA">
 <center><img src="" width="265" height="266" align="BOTTOM" /></center><hr />
 <p style="text-align: center;"><a href="https://www.instagram.com/sophieg72/">Click Here</a> to go to my favorite site (feel free to give me a follow:))</p>
 <h1 style="text-align: center;">Hey ya'll, my name is Sophia Garza</h1>
