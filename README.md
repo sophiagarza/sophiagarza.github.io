@@ -6,8 +6,9 @@
   <p> I am currently a Freshman at The University of Texas studying supply chain managment in the McCombs School of Business.
     I love Austin! Some of my favorite thinsg to do are:
     <ul style="list-style-type:circle;">
-   <li/> hike at Barton Creek</li>
+   <li/> Hang out with my friends (I'm in Texas Royals)</li>
  <li/> hike at Barton Creek</li>
+  <li/> Watch Texas sports (big Texas Football girl)</li>
   <li/> and of course sit in and learn MIS from the best professor out there (I'm looking at you Professor Anand)</li>
   </ul>
   
