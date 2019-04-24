@@ -2,7 +2,7 @@
 <html>
 <body style="background-color:powderblue;">
   <h1> Hey y'all my name is Sophia Garza, welcome to my site! </h1>
-  <center><img src="https://i.kym-cdn.com/entries/icons/facebook/000/023/098/Screen_Shot_2017-05-30_at_2.23.51_PM.jpg" width="265" height="266" align="BOTTOM" /></
+  <center><img src="https://i.kym-cdn.com/entries/icons/facebook/000/023/098/Screen_Shot_2017-05-30_at_2.23.51_PM.jpg" width="265" height="266" align="BOTTOM" /></center><hr/>
   <br/><b/> Get to know all about me <b/><br/>
   <p> I am currently a Freshman at The University of Texas studying supply chain managment in the McCombs School of Business.
     I love Austin! Some of my favorite thinsg to do are:
