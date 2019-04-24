@@ -1,8 +1,8 @@
 # Sophia Garza
 <html>
 <body style="background-color:powderblue;">
- <center> <h1> Hey y'all my name is Sophia Garza
-   welcome to my site! </h1></center>
+ <center> <h1> Hey y'all my name is Sophia Garza</h1>
+  <h2> welcome to my site! </h2></center>
   <center><img src="https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/49773415_2130858387229548_3384845893273387008_n.jpg?_nc_cat=102&_nc_ht=scontent-dfw5-1.xx&oh=d9fa02c9c2e849c553bbbdfdea8746b9&oe=5D6F1D0D" width="265" height="266" align="BOTTOM" /></center><hr/>
   <br/><strong> Get to know all about me: </strong><br/>
   
