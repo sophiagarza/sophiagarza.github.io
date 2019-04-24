@@ -8,10 +8,10 @@
     <ul style="list-style-type:circle;">
    <li/> Hang out with my friends (I'm in Texas Royals)
  <li/> hike at Barton Creek
-  <li/> Watch Texas sports (big Texas Football girl)
-  <li/> and of course sit in and learn MIS from the best professor out there (I'm looking at you Professor Anand)
-      </li></ul>
-  
+ <li/> Watch Texas sports (big Texas Football girl)
+ <li/> and of course sit in and learn MIS from the best professor out there (I'm looking at you Professor Anand)
+ </ul>
+ 
   
   </body>
   
