@@ -13,7 +13,7 @@
      </ul>
 After college I hope to go to law school and study to become a defense attorney. Until then I am here at UT and I coudln't be more excited about that! Can't wait to see what the next few years have in store for me. </p>
   <h2> check out my favorite website! </h2>
-  <p style="text-align: center;"><a href="https://www.newfriendsnewlife.org/human-trafficking">Click Here</a> to go to my favorite site</p>
+  <p style="text-align: center;"><a href="https://www.newfriendsnewlife.org/human-trafficking">Click Here</a> to go to my favorite site and learn about the multimillion dollar crime happening right on our streets</p>
   </body>
   
   
