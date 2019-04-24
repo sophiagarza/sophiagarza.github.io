@@ -5,7 +5,7 @@
   <br/><b/> Get to know all about me <b/><br/>
   <p> I am currently a Freshman at The University of Texas studying supply chain managment in the McCombs School of Business.
     I love Austin! Some of my favorite thinsg to do are:
-    <ul style="list-style-type:circle;">
+   <center> <ul style="list-style-type:circle;">
    <li/> Hang out with my friends (I'm in Texas Royals)
  <li/> hike at Barton Creek
  <li/> Watch Texas sports (big Texas Football girl)
