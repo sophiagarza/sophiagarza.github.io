@@ -10,7 +10,7 @@
  <li/> Hang out with my friends (I'm in Texas Royals)
  <li/> Hike at Barton Creek
 <li/> Watch Texas sports (big Texas Football girl)
- <li/> And of course sit in and learn MIS from the best professor out there (I'm looking at you Professor Anand)
+ <li/> And learn MIS from the best professor out there (I'm looking at you Professor Anand)
      </ul>
 After college I hope to go to law school and study to become a defense attorney. Until then I am here at UT and I coudln't be more excited about that! Can't wait to see what the next few years have in store for me. </p>
   <h2> check out my favorite website! </h2>
