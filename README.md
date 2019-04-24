@@ -12,7 +12,7 @@
 <li/> Watch Texas sports (big Texas Football girl)
  <li/> And learn MIS from the best professor out there (I'm looking at you Professor Anand)
      </ul>
-After college I hope to go to law school and study to become a defense attorney. Until then I am here at UT and I coudln't be more excited about that! Can't wait to see what the next few years have in store for me. </p>
+After college I hope to go to law school and study to become a defense attorney. Until then I am here at UT and I couldn't be more excited about that! Can't wait to see what the next few years have in store for me. </p>
   <h2> check out my favorite website! </h2>
   <p style="text-align: center;"><a href="https://www.newfriendsnewlife.org/human-trafficking">Click Here</a> to learn more about the multi-million dollar crime happening right on our streets</p>
   </body>
